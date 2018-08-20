@@ -46,7 +46,7 @@ if(isset($_POST['submit'])){
 		array_push($errors, '1');
 	}
 	if($password!==$confirmpassword){
-		$passwordc_error='<span style="color:red;">Passwords doesn\'t match.</span><br />';
+		$passwordc_error='<span style="color:red;">Passwords do not match.</span><br />';
 		array_push($errors, '1');
 	}
 	if(count($errors)==0){
