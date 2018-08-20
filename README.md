@@ -13,7 +13,7 @@
           <h3>Usage</h3>
           <div style="border-bottom:2px solid grey;"></div>
           <div id="usage" style="margin-top:50px;width:500px;height:auto;text-align:justify;">
-            <span>To be able to use the system, you must first load the "users.sql" table contained in the archive, in the database. Next,                   you need to configure the "$ connection" variable contained in each file, and lastly, change the address of the "mail                     ()" function on all the pages that require it.
+            <span>To be able to use the system, you must first load the "users.sql" table contained in the folder, in the database. Next,                   you need to configure the "$ connection" variable contained in each file, and lastly, change the address of the "mail                     ()" function on all the pages that require it.
             </span>
           </div>
         </div>
