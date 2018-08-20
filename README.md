@@ -1,7 +1,4 @@
 <html>
-  <head>
-    <title>Authentication System</title>
-  </head>
   <body style="font-family:Arial;">
     <center>
       <div style="margin-top:100px;">
