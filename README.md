@@ -16,13 +16,6 @@
             </span>
           </div>
         </div>
-        <div>
-          <h3>License</h3>
-          <div style="border-bottom:2px solid grey;"></div>
-          <div id="license" style="margin-top:50px;width:500px;height:auto;text-align:justify;">
-            <span>Copyright 2018 - Christian Carpineta</span>
-          </div>
-        </div>
       </div>
     </center>
 </html>
